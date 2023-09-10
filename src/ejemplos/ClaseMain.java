@@ -1,5 +1,3 @@
-// HOLA A TODOS
-
 
 package ejemplos;
 
