@@ -1,3 +1,6 @@
+// HOLA A TODOS
+
+
 package ejemplos;
 
 import java.util.Scanner;
@@ -11,16 +14,12 @@ public class ClaseMain {
         float n1 = num.nextFloat();
 
         System.out.print("Introduzca el numero 2: ");
-
         float n2 = num.nextFloat();
 
-
         System.out.print("Introduzca el numero 3: ");
-
         float n3 = num.nextFloat();
 
         float media = (n1+n2+n3) / 3;
-
         int mediaent = (int)media;
 
         System.out.print("La media es: " + mediaent);
@@ -28,5 +27,4 @@ public class ClaseMain {
         num.close();
 
     }
-
 }
